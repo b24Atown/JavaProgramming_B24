@@ -29,5 +29,6 @@ public class ArrayListDuplicate {
     public static void main(String[] args) {
         ArrayList <Integer> nums = new ArrayList<>(Arrays.asList(1,2,3,4,2,1));
         System.out.println(duplicatesInList(nums));
+        
     }
 }
